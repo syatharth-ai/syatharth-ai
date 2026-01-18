@@ -1,17 +1,13 @@
-Hi 👋 I’m Yatharth Sharma
+# Hi 👋 I'm Yatharth
 
-I am a first-year engineering student learning Python and Automation Engineering.
+I’m learning Python, automation engineering, and AI-powered workflows.
 
-What I’m Doing:
-- Building automation scripts and tools
-- Learning AI and workflow automation
-- Practicing Python every day
-- Documenting my progress on GitHub
+🔭 I’m currently working on:
+- Python automation scripts
+- Workflow integrations
+- AI + automation tools
 
-Current Focus:
-- Python Programming
-- Automation Workflows
-- AI-Powered Automations
+📫 Find my projects here:
+https://github.com/syatharth-ai/automation-journey
 
-Goal:
-To become a professional Automation Engineer who builds intelligent systems that save time and improve productivity.
+📌 My goal: Become a professional Automation Engineer with real-world automation systems.
