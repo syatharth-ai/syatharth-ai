@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋 I’m Yatharth Sharma
 
-<!--
-**syatharth-ai/syatharth-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year engineering student learning Python and Automation Engineering.
 
-Here are some ideas to get you started:
+What I’m Doing:
+- Building automation scripts and tools
+- Learning AI and workflow automation
+- Practicing Python every day
+- Documenting my progress on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus:
+- Python Programming
+- Automation Workflows
+- AI-Powered Automations
+
+Goal:
+To become a professional Automation Engineer who builds intelligent systems that save time and improve productivity.
